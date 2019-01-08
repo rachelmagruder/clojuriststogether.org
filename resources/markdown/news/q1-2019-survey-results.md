@@ -1,7 +1,7 @@
-title: Q4 2018 Survey Results and Call For Proposals
+title: Q1 2019 Survey Results 
 date: 2018-10-01T08:30:50+13:00
 type: "post"
-draft: false
+draft: true
 
 INSERT INTRO HERE
 
@@ -26,7 +26,7 @@ There were 67 respondents to the survey, up from 56 in the last survey. The high
 
 ### What areas of Clojure would you like to see improvement in?
 
-The main things people were interested in: developer experience tools (55%), build tooling (50%), documentation (48%), error messages (42%), IDE support (37%), test tooling (31%), linters (27%), data analysis/processing framework (26%). 
+The main things people were interested in: developer experience tools (55%), build tooling (52%), documentation (49%), error messages (44%), IDE support (35%), test tooling (30%), linters (30%), data analysis/processing framework (26%). 
 
 ### Are there any particular libraries, tools, or projects that are important to you that you would like to see supported?
 
