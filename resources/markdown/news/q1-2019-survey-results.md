@@ -1,7 +1,7 @@
 title: Q4 2018 Survey Results and Call For Proposals
 date: 2018-10-01T08:30:50+13:00
 type: "post"
-draft: true
+draft: false
 
 INSERT INTRO HERE
 
