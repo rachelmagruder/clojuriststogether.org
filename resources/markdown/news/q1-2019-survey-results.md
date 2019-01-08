@@ -7,21 +7,21 @@ INSERT INTRO HERE
 
 ## Survey Responses
 
-There were 63 respondents to the survey, up from 56 in the last survey. The highlights are presented below.
+There were 67 respondents to the survey, up from 56 in the last survey. The highlights are presented below.
 
 ### Which Clojure dialects do you regularly use?
 
 - Clojure - 61 (97%)
-- ClojureScript - 51 (81%)
+- ClojureScript - 51 (82%)
 - Clojure CLR - 0 (0%)
 
 ### Which platforms do you target?
 
 - Clojure JVM Server (94%)
-- ClojureScript Browser (73%)
-- ClojureScript Node Server (19%)
-- ClojureScript Mobile (19%)
-- Clojure JVM Client (16%)
+- ClojureScript Browser (74%)
+- ClojureScript Node Server (20%)
+- ClojureScript Mobile (18%)
+- Clojure JVM Client (15%)
 - ClojureScript Desktop Application (8%)
 
 ### What areas of Clojure would you like to see improvement in?
