@@ -40,7 +40,7 @@ About half of the respondents to this question had seen direct benefits, and hal
 
 ### How would you like us to allocate our funding?
 
-GRAPHS SCREENSHOT FROM SURVEY?
+GRAPHS SCREENSHOT FROM SURVEY? We could also use the bar graphs re: project satisfaction?
 
 ### What are we doing well, what could we be doing better?
 
@@ -58,6 +58,6 @@ Could do better:
 * More collaboration with the greater Clojure community
 
 
-ENTER CLOSING STATEMENT
+We are opening up for project proposals for Q2 of 2019, so keep your eye on our emails (as we might have a different format for project funding? was this decided?). ENTER DATES FOR NEXT PROPOSALS.
 
 If you'd like to see more companies sponsor Clojurists Together, please reach out to them and encourage them to join.
