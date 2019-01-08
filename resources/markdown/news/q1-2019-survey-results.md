@@ -1,7 +1,7 @@
 title: Q1 2019 Survey Results 
 date: 2018-10-01T08:30:50+13:00
 type: "post"
-draft: true
+draft: false
 
 Happy New Year Clojurists Together community!
 
